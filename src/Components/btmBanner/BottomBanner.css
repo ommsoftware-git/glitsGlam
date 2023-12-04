@@ -1,0 +1,27 @@
+.btn_banner_section{
+    height: 80vh;
+    width: 100%;
+    background-image: url("../../../public/Images/btm-banner.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-content{
+text-align: center;
+}
+.banner-content h1{
+color: #fff;
+font-weight: bold;
+font-size: 50px;
+}
+.banner-content h5{
+color: #fff;
+font-weight: bold;
+font-size: 20px;
+margin-bottom: 3rem;
+}
+

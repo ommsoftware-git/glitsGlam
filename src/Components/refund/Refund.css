@@ -1,0 +1,7 @@
+.refund p{
+    font-size: 13px;
+}
+.refund ul li{
+    list-style: circle !important;
+    font-size: 14px;
+}

@@ -1,0 +1,57 @@
+.vlog {
+    text-align: center;
+  }
+  .vlog img {
+    width: 100%;
+    height: 250px;
+  }
+  .vlog .box {
+    /* padding: 40px 20px; */
+    background-color: #fff;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+    height: 350px;
+  }
+  .vlog a{
+    text-decoration: none;
+    color: #000;
+  }
+  .vlog a:hover{
+    text-decoration: none;
+    color: #0377b9;
+  }
+  .vlog h2 {
+    font-weight: 500;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+  }
+  .vlog p {
+    font-size: 16px;
+    color: #111 !important;
+  }
+  .vlog_details figure img{
+    width: 100%;
+    height: 100%;
+  }
+  .vlog_admin_section{
+    background-color: #f2f2f2;
+    padding: 40px;
+    text-align: left;
+  }
+  .vlog_admin_icon{
+    display: flex;
+    align-items: center;
+  }
+  .vlog_admin_icon p{
+  font-size: 14px;
+  }
+  .icon_vlog{
+    color: #0377b9;
+  }
+
+  @media screen and (max-width: 768px) {
+    .vlog .grid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+  

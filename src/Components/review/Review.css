@@ -1,0 +1,18 @@
+.review  input{
+    width: 100%;
+    border: 1px solid #c3c1c1;
+    margin-top: 10px;
+}
+.review  .input .select{
+    width: 100%;
+    border: 1px solid #c3c1c1;
+    margin-top: 10px;
+    border-radius: 0 !important;
+    padding: 12px;
+}
+.review  .input textarea{
+    border-radius: 0 !important;
+}
+.review h3{
+    font-size: 22px;
+}

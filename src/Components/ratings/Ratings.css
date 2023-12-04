@@ -1,0 +1,12 @@
+.ratingStar{
+    font-size: 14px;
+    color: #edbb0e;
+}
+.rating_icon{
+    font-size: 14px;
+    color: #edbb0e;
+}
+.ratingStar span{
+    color: black;
+    font-weight: 700;
+}

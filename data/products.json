@@ -1,0 +1,438 @@
+{
+    "products":[
+        {
+            "id":"A2 Desi Cow Bilona Ghee 1 Liter+1",
+            "name":"A2 Desi Cow Bilona Ghee 1 Liter",
+            "price":"1990",
+            "delPrice":"2300",
+            "discount":"14%",
+            "discountTitle":"14% Discount",
+            "reviews":"47",
+            "stars":"5",
+            "stock":"2",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/1.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"Kasutam A2 organic Ghee improves digestion, prevents constipation, moisturizes the skin, and strengthens the bones. It is anti-fungal and anti-bacterial and is widely used in herbal preparations. ● Our Kasutam A2 Desi Ghee is Rich in taste, delicious and lustrous with an aromatic nutty flavour and buttery consistency, our desi cow ghee is a real delight. We have an uncompromising adherence to high quality of our A2 desi ghee in addition to the great attention to detail – the outcome is distinctive and pure desi cow ghee. We have consolidated innumerable uncompromising accuracy protocols to ensure high quality."
+        },
+        {
+            "id":"A2 Desi Cow Bilona Ghee 500ml+2",
+            "name":"A2 Desi Cow Bilona Ghee 500ml",
+            "price":"1140.00",
+            "delPrice":"1270.00",
+            "discount":"11%",
+            "discountTitle":"NEW",
+            "reviews":"17",
+            "stars":"4",
+            "stock":"2",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"Buffalo bilona ghee 1 Liter+3",
+            "name":"Buffalo bilona ghee 1 Liter",
+            "price":"1490.00",
+            "delPrice":"1865.00",
+            "discount":"21%",
+            "discountTitle":"NEW",
+            "reviews":"1",
+            "stars":"2",
+            "stock":"2",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"Buffalo bilona ghee 500ml+4",
+            "name":"Buffalo bilona ghee 500ml",
+            "price":"810.00",
+            "delPrice":"910.00",
+            "discount":"11%",
+            "discountTitle":"SALE",
+            "reviews":"1",
+            "stars":"5",
+            "stock":"2",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"A2 Desi Cow Bilona Ghee 5 Liter steel can+5",
+            "name":"A2 Desi Cow Bilona Ghee 5 Liter steel can",
+            "price":"9550.00",
+            "delPrice":"13500.00",
+            "discount":"30%",
+            "discountTitle":"SPECIAL OFFER",
+            "reviews":"3",
+            "stars":"4.5",
+            "stock":"5",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/5.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"Kachi Ghani Black Mustard Oil 1 Liter Plastic Bottle+6",
+            "name":"Kachi Ghani Black Mustard Oil 1 Liter Plastic Bottle",
+            "price":"470.00",
+            "delPrice":"580.00",
+            "discount":"19%",
+            "discountTitle":"NEW",
+            "reviews":"3",
+            "stars":"3.5",
+            "stock":"5",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/6.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"Kachi Ghani Black Mustard Oil 1 Liter Bottle x 4 Bottle (4 Liter)+7",
+            "name":"Kachi Ghani Black Mustard Oil 1 Liter Bottle x 4 Bottle (4 Liter)",
+            "price":" 1716.00",
+            "delPrice":"2200.00",
+            "discount":"22%",
+            "discountTitle":"NEW",
+            "reviews":"3",
+            "stars":"4.5",
+            "stock":"5",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/7.png",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        },
+        {
+            "id":"A2 Desi Cow Bilona Ghee 2 Liter+8",
+            "name":"A2 Desi Cow Bilona Ghee 2 Liter",
+            "price":"3850.00",
+            "delPrice":"4600.00",
+            "discount":"17%",
+            "discountTitle":"MEGA OFFER",
+            "reviews":"1",
+            "stars":"4.2",
+            "stock":"5",
+            "videos":"https://www.youtube.com/embed/KMR-UwDcPnA",
+            "image":[
+                {
+                    "id":"productDetailImg-1",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/8.jpg",
+                    "fileName":"product-img-1",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-2",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/2.jpg",
+                    "fileName":"product-img-2",
+                    "size":1080,
+                    "type":"image/png"
+                },
+              
+                {
+                    "id":"productDetailImg-3",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/3.jpg",
+                    "fileName":"product-img-3",
+                    "size":1080,
+                    "type":"image/png"
+                },
+                {
+                    "id":"productDetailImg-4",
+                    "width":1080,
+                    "height":650,
+                    "url":  "/images/products/4.jpg",
+                    "fileName":"product-img-4",
+                    "size":1080,
+                    "type":"image/png"
+                }
+              
+               
+            ],
+            "desc":"We use our farm's grown cattle feed to insure our diary animal remain healthy and we buy the best animal feed according to market standard"
+        }
+     
+      
+    ]
+}

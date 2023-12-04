@@ -1,0 +1,33 @@
+#whatsapp {
+    bottom: 40px;
+    font-size: 20px;
+    line-height: 48px;
+    right: 30px;
+    width: 44px;
+    color: #fff;
+    text-align: center;
+    height: 44px;
+    border-radius: 100px;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    position: fixed;
+    z-index: 2147483647;
+    right: 80px;
+    background-color: #25d366;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-name: pulse;
+	animation-duration: 1.5s;
+	animation-timing-function: ease-out;
+	animation-iteration-count: infinite;
+}
+
+@keyframes pulse {
+	0% {
+		box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5);
+	}
+	80% {
+		box-shadow: 0 0 0 14px rgba(37, 211, 102, 0);
+	}
+}
